@@ -1,0 +1,18 @@
+accelerate
+argparse
+datasets
+matplotlib
+pandas
+scikit-learn
+torch
+torchvision
+transformers
+tqdm
+
+# For Qwen Training
+unsloth
+unsloth-zoo
+
+# For Qwen Inference
+qwen-vl-utils
+vllm
