@@ -1,5 +1,9 @@
 # Deepfake Detection with VLM
 
+> [!NOTE]
+> The assets include ROC Curve, result, and `report.pdf`.
+> Thank you for your time.
+
 ## Overview
 A deepfake detection system powered by Vision-Language Models (VLM). This project leverages pre-trained VLMs and parameter-efficient tuning methods to detect deepfakes across different manipulation techniques.
 
@@ -160,7 +164,7 @@ python hyperparameter_search.py
 
 ## Pretrained Weights
 
-Download model weights from the [Releases](../../releases):
+Download model weights from the [Releases](https://github.com/jimmyhealer/deepfake-vlm/releases/latest):
 - CLIP Baseline
 - CLIP + LoRA
 - CLIP + VPT
